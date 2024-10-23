@@ -85,7 +85,7 @@ for student, accounts in student_accounts.items():
 
 # 8. Think of a function that can hash lists. Implement it and test it.
 def hash_list(enter_list):
-    list_pair = pair(enter_list) # not working
+    list_pair = tuple(enter_list) # not working
     return hash(list_pair)
 
 list1 = [1, 2, 3, 4]
