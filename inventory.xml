@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory>
+    <product>
+        <name>Apple</name>
+        <price>0.50</price>
+    </product>
+    <product>
+        <name>Banana</name>
+        <price>0.30</price>
+    </product>
+</inventory>
